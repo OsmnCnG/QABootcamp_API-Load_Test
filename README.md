@@ -20,5 +20,4 @@ Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman i
 
 ## Allure reports örnek görseller
 
-<img src="https://imgur.com/a/ahpnobU" width="400" height="300" />
-
+<img src="https://i.imgur.com/a/ahpnobU.png" width="400" height="300" />
