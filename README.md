@@ -18,3 +18,7 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 
 Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman içerisine import edebilirsiniz.
 
+## Allure reports örnek görseller
+
+<img src="https://imgur.com/a/ahpnobU" width="400" height="300" />
+
