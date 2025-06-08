@@ -2,5 +2,5 @@ package Base;
 
 public class Data {
 
-    public String URL = "https://petstore.swagger.io";
+    public static String URL = "https://petstore.swagger.io";
 }
