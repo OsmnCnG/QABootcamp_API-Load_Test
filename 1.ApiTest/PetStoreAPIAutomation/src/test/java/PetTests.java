@@ -9,7 +9,7 @@ import java.util.Map;
 
 public class PetTests extends BaseTest {
 
-    @Test(description = "Get - /v2/pet - Pet Information", priority = 2)
+    @Test(description = "Get - /v2/pet - Pet Information", priority = 2,dependsOnMethods = "CreatePet")
     public void GetPetInformation(){
 
         RestAssureGet(URL+"/v2/pet/1236540038");
