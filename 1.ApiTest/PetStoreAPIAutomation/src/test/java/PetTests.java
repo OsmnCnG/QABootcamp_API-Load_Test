@@ -44,7 +44,7 @@ public class PetTests extends BaseTest {
         List<Map<String, Object>> tagsList = new ArrayList<>();
         tagsList.add(tagObjectMap);
 
-        bodyPayload.put("id", "1236540038");
+        bodyPayload.put("id", 1236540038);
         bodyPayload.put("category", categoryMap);
         bodyPayload.put("name", "bubu");
         bodyPayload.put("photoUrls", photoUrlsList);
