@@ -18,7 +18,10 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 
 Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman içerisine import edebilirsiniz.
 
-## Allure reports örnek görseller
+## 📊 Test Raporları ve Allure Görselleri
 
-<img src="https://i.imgur.com/vyyEieo.png" width="400" height="300" />
-<img src="https://i.imgur.com/Vc42UFF.png" width="400" height="300" />
+Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar **Allure** raporları halinde oluşturulmaktadır.
+### Jenkins Allure Test Raporu
+
+<img src="https://i.imgur.com/v8D33D2.png" width="400" height="300" />
+<img src="https://i.imgur.com/DyuOwSt.png" width="400" height="300" />
