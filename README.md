@@ -8,6 +8,7 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 
 - **RestAssured**
 - **TestNG**
+- **Jenkins**
 - **Allure Report**
 - **Postman**
 - **Swagger PetStore API**
@@ -18,7 +19,7 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 
 Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman içerisine import edebilirsiniz.
 
-## 📊 Test Raporları ve Allure Görselleri
+## Test Raporları ve Allure Görselleri
 
 Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar **Allure** raporları halinde oluşturulmaktadır.
 ### Jenkins Allure Test Raporu
