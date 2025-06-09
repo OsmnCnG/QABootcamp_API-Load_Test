@@ -26,3 +26,8 @@ Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar
 
 <img src="https://i.imgur.com/v8D33D2.png" width="400" height="300" />
 <img src="https://i.imgur.com/DyuOwSt.png" width="400" height="300" />
+
+## Locust Reports
+
+- HTML Rapor: [`reports/report.html`](reports/report.html)
+- Detaylı açıklama: [`docs/LoadTest-Raporu.md`](docs/LoadTest-Raporu.md)
