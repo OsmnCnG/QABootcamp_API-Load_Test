@@ -32,5 +32,6 @@ Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar
 
 ## Locust Reports
 - Detaylı rapora buradan ulaşabilirsiniz: [`2.LoadTest/reports/Locust.pdf`](2.LoadTest/reports/Locust.pdf)
+---
 ![Locust Raporu](https://github.com/OsmnCnG/QABootcamp_API-Load_Test/blob/main/2.LoadTest/reports/screenshots/charts.png)
 
