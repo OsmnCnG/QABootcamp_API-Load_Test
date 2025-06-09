@@ -31,6 +31,8 @@ Testler Jenkins aracı ile otomatik olarak çalıştırılmış ve sonuçlar **A
 
 # PetStore API Load Test
 
+Petstore API üzerinde yük testi gerçekleştirmek amacıyla Locust aracı kullanılmıştır. İlgili kodlara ve raporlara projenin 2.LoadTest klasörü altında ulaşabilirsiniz.
+
 ## Locust Reports
 - Detaylı rapora buradan ulaşabilirsiniz: [`2.LoadTest/reports/Locust.pdf`](2.LoadTest/reports/Locust.pdf)
 ---
