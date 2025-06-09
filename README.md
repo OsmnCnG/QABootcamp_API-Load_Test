@@ -1,7 +1,7 @@
 # PetStore API Test
 
 Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel CRUD işlemleri için yazılmış otomatik API testlerini içermektedir. Testler, Java ile yazılmış olup [RestAssured](https://rest-assured.io/), [TestNG](https://testng.org/) ve [Allure Report](https://docs.qameta.io/allure/) kullanılarak oluşturulmuştur.
-
+İlgili kodlara ve raporlara projenin 1.ApiTest klasörü altında ulaşabilirsiniz.
 ---
 
 ## Kullanılan Teknolojiler
