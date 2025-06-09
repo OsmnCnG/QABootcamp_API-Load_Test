@@ -29,5 +29,5 @@ Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar
 
 ## Locust Reports
 
-- HTML Rapor: [`reports/report.html`](reports/report.html)
+- HTML Rapor: [`reports/report.html`](2.LoadTest/reports/Locust_2025-06-09-17h14_Main.py_https___petstore.swagger.io.html)
 - Detaylı açıklama: [`docs/LoadTest-Raporu.md`](docs/LoadTest-Raporu.md)
