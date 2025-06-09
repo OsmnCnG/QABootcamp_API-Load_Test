@@ -18,8 +18,8 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 
 ## Postman Collection
 
-Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman içerisine import edebilirsiniz.
-Postman Collection dosyasına buradan ulaşabilirsiniz: [`1.ApiTest/PetStore.postman_collection.json`](1.ApiTest/PetStore.postman_collection.json)
+- Postman Collection dosyasını 1.ApiTest klasörü içerisine ekledim. Postman içerisine import edebilirsiniz.
+- Postman Collection dosyasına buradan ulaşabilirsiniz: [`1.ApiTest/PetStore.postman_collection.json`](1.ApiTest/PetStore.postman_collection.json)
 
 ## Test Raporları ve Allure Görselleri
 
