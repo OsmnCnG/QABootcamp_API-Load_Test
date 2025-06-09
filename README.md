@@ -12,6 +12,7 @@ Bu proje, [Swagger PetStore API](https://petstore.swagger.io/) üzerinde temel C
 - **Allure Report**
 - **Postman**
 - **Swagger PetStore API**
+- **Locust**
 
 ---
 
@@ -26,6 +27,8 @@ Testlerimiz Jenkins aracı ile otomatik olarak çalıştırılmakta ve sonuçlar
 
 <img src="https://i.imgur.com/v8D33D2.png" width="400" height="300" />
 <img src="https://i.imgur.com/DyuOwSt.png" width="400" height="300" />
+
+# PetStore API Load-test Otomasyonu
 
 ## Locust Reports
 
